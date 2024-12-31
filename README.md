@@ -14,3 +14,5 @@
 </div><br/>
 
 🌟💻 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alesson-porfiro&hide_progress=false)
