@@ -10,7 +10,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
 <a href="www.linkedin.com/in/alesson-porfiro-017661336" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
@@ -36,8 +35,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,spring,php,py" />
 </a>
-
-<img align="right" alt="" height="235px" width="450px" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fufsb.edu.br%2Fcep%2Fimagens%2F1-galeria-de-imagens-01%2Fdetail%2F3-imagem-3-titulo-com-ate-45-caracteres&psig=AOvVaw2WIXBPHR64LxHe_fm6Vra4&ust=1757269383378000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiXu9zgxI8DFQAAAAAdAAAAABAE)">
 
 ### 🌐 Web Development  
 <a href="https://skillicons.dev">
