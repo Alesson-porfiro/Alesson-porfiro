@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c55122a2-7928-404b-be0b-c1731cd03ede" width="9%" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Alesson+Porfiro;Full-stack+Web+and+App+Developer;1%2B+years+of+coding+experience)](https://git.io/typing-svg)
 
 #
