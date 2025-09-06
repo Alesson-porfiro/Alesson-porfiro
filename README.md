@@ -56,7 +56,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,notion,windows,linux" />
 </a>
 
+</div>
 
+<div align=center>
+<img src="https://raw.githubusercontent.com/Alesson-porfiro/Alesson-porfiro/output/snake.svg" alt="Snake animation" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
