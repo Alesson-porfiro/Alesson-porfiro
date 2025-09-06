@@ -61,13 +61,12 @@
 </a>
 
 </div>
-
-<div align=center>
-<img src="https://raw.githubusercontent.com/Alesson-porfiro/Alesson-porfiro/output/snake.svg" alt="Snake animation" />
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alesson-porfiro/Alesson-porfiro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alesson-porfiro/Alesson-porfiro/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Alesson-porfiro/Alesson-porfiro/output/pacman-contribution-graph.svg">
+</picture>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
 <!--
 ```
 ███████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
