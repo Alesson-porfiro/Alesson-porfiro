@@ -42,7 +42,7 @@
 
 ### 🌐 Web Development  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,bootstrap,jquery,vite" />
 </a>
 
 ### 🗄️ Databases  
